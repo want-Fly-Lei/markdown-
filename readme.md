@@ -1,0 +1,2 @@
+所有markdown是在vscode上编辑的，插件用的是Markdown Preview Enhanced,其他插件真的远不如这个好用。
+其实我觉得很多东西html那些标签还好用一些（感觉markdown还麻烦一下，不过用html的话css的布局让我觉得有点难受），markdown里面可以直接写html常用的标签还是比较舒服，因为markdown实际上也是把md文件转为html+css再来交给浏览器。
